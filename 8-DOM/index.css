@@ -1,0 +1,26 @@
+/* body{
+    background-color: pink;
+} */
+h1{
+    color: aqua;
+    background-color: black;
+    text-align: center;
+}
+p{
+    color: blue;
+    background-color: rgb(226, 140, 28);
+    font-size: 1.5rem;
+    text-align: center;
+}
+button{
+    background-color: brown;
+    color: azure;
+    height: 35px;
+    width: 100px;
+    border-radius: 10px;
+    position: relative;
+    left: 50%;
+    font-size: 20px;
+    box-sizing: content-box;
+    padding: 5px 15px;
+}
